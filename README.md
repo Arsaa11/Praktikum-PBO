@@ -1,1 +1,1 @@
-# Praktikum-PBO
+# Repository pengumpulan tugas praktikum PBO
